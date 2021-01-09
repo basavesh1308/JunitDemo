@@ -9,4 +9,8 @@ public class StringHelper
     public int findLength(){
         return name.length();
     }
+
+    public void displayName(){
+        System.out.println("name : " + name);
+    }
 }
