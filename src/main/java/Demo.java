@@ -4,4 +4,6 @@ public class Demo {
     }
     public void feature2(){
     }
+    public void feature3(){
+    }
 }
