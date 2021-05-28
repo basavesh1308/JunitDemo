@@ -9,6 +9,4 @@ public class StringHelper
     public int findLength(){
         return name.length();
     }
-
-    public void commit3(){}
 }
