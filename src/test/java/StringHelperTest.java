@@ -18,7 +18,7 @@ public class StringHelperTest {
 
         int result = stringHelper.findLength();
 
-        Assert.assertEquals(9,result);
+        Assert.assertEquals(8,result);
 
     }
 }
