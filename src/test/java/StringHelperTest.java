@@ -9,7 +9,7 @@ public class StringHelperTest {
     @Before
     public void setup(){
 
-        stringHelper = new StringHelper("Basavesh");
+        stringHelper = new StringHelper("BasaveshBR");
 
     }
 
@@ -18,7 +18,7 @@ public class StringHelperTest {
 
         int result = stringHelper.findLength();
 
-        Assert.assertEquals(8,result);
+        Assert.assertEquals(10,result);
 
     }
 }
